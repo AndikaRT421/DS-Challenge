@@ -1,3 +1,6 @@
 [submodule "Gemastik-2023"]
 	path = Gemastik-2023
 	url = https://github.com/AndikaRT421/Gemastik-2023
+[submodule "DSA-Compfest-2023"]
+	path = DSA-Compfest-2023
+	url = https://github.com/AndikaRT421/DSA-Compfest-2023
