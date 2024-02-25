@@ -4,3 +4,6 @@
 [submodule "DSA-Compfest-2023"]
 	path = DSA-Compfest-2023
 	url = https://github.com/AndikaRT421/DSA-Compfest-2023
+[submodule "Dicoding-ML-Terapan"]
+	path = Dicoding-ML-Terapan
+	url = https://github.com/AndikaRT421/Dicoding-ML-Terapan.git
